@@ -9,6 +9,10 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.env
+server/
+eas.json
+metro.config.js
 
 # macOS
 .DS_Store
